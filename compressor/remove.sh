@@ -1,0 +1,1 @@
+rm ./zipfile ./key.txt

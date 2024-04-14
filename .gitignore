@@ -1,0 +1,32 @@
+# 忽略编译生成的文件
+*.o
+*.out
+*.exe
+
+
+# 忽略临时文件和日志文件
+*.log
+*.tmp
+*.swp
+mid.txt
+zip.txt
+output.txt
+input.txt
+cmp.txt
+dest.txt
+key.txt
+zipfile
+
+# 忽略系统和IDE生成的文件
+.DS_Store
+.vscode/
+.idea/
+
+# 忽略依赖库
+vendor/
+
+# 忽略配置文件
+config.ini
+
+# 忽略特定目录下的文件
+build/
